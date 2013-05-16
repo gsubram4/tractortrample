@@ -1,0 +1,761 @@
+
+game.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+playableArea
+  rotate: false
+  xy: 1, 1642
+  size: 1748, 402
+  orig: 1748, 402
+  offset: 0, 0
+  index: -1
+cutAway
+  rotate: false
+  xy: 1, 1488
+  size: 1748, 152
+  orig: 1748, 152
+  offset: 0, 0
+  index: -1
+PlxBgMtn
+  rotate: false
+  xy: 1, 1264
+  size: 1294, 222
+  orig: 1294, 222
+  offset: 0, 0
+  index: -1
+road
+  rotate: false
+  xy: 1, 1178
+  size: 1280, 84
+  orig: 1280, 84
+  offset: 0, 0
+  index: -1
+titlescreen
+  rotate: false
+  xy: 1, 759
+  size: 861, 417
+  orig: 861, 417
+  offset: 0, 0
+  index: -1
+fence1
+  rotate: false
+  xy: 1, 709
+  size: 1094, 48
+  orig: 1094, 48
+  offset: 0, 0
+  index: -1
+wod
+  rotate: false
+  xy: 1751, 1544
+  size: 135, 500
+  orig: 135, 500
+  offset: 0, 0
+  index: 0
+wod
+  rotate: false
+  xy: 1, 207
+  size: 135, 500
+  orig: 135, 500
+  offset: 0, 0
+  index: 1
+wod
+  rotate: false
+  xy: 1888, 1544
+  size: 135, 500
+  orig: 135, 500
+  offset: 0, 0
+  index: 2
+wod
+  rotate: false
+  xy: 138, 207
+  size: 135, 500
+  orig: 135, 500
+  offset: 0, 0
+  index: 3
+wod
+  rotate: false
+  xy: 275, 207
+  size: 135, 500
+  orig: 135, 500
+  offset: 0, 0
+  index: 4
+wod
+  rotate: false
+  xy: 412, 207
+  size: 135, 500
+  orig: 135, 500
+  offset: 0, 0
+  index: 5
+wod
+  rotate: false
+  xy: 549, 207
+  size: 135, 500
+  orig: 135, 500
+  offset: 0, 0
+  index: 6
+wod
+  rotate: false
+  xy: 686, 207
+  size: 135, 500
+  orig: 135, 500
+  offset: 0, 0
+  index: 7
+wod
+  rotate: false
+  xy: 823, 207
+  size: 135, 500
+  orig: 135, 500
+  offset: 0, 0
+  index: 8
+wod
+  rotate: false
+  xy: 960, 207
+  size: 135, 500
+  orig: 135, 500
+  offset: 0, 0
+  index: 9
+taptotrample
+  rotate: false
+  xy: 1, 140
+  size: 520, 65
+  orig: 520, 65
+  offset: 0, 0
+  index: -1
+tree
+  rotate: false
+  xy: 864, 859
+  size: 233, 317
+  orig: 233, 317
+  offset: 0, 0
+  index: -1
+flag
+  rotate: false
+  xy: 1099, 842
+  size: 174, 334
+  orig: 174, 334
+  offset: 0, 0
+  index: -1
+wod
+  rotate: false
+  xy: 1097, 340
+  size: 135, 500
+  orig: 135, 500
+  offset: 0, 0
+  index: 10
+wod
+  rotate: false
+  xy: 1234, 340
+  size: 135, 500
+  orig: 135, 500
+  offset: 0, 0
+  index: 11
+tractorbody2
+  rotate: false
+  xy: 1297, 1188
+  size: 164, 298
+  orig: 164, 298
+  offset: 0, 0
+  index: -1
+barnBk
+  rotate: false
+  xy: 1, 23
+  size: 249, 115
+  orig: 249, 115
+  offset: 0, 0
+  index: -1
+windmillsmall
+  rotate: false
+  xy: 1463, 1287
+  size: 144, 199
+  orig: 144, 199
+  offset: 0, 0
+  index: -1
+reactor
+  rotate: false
+  xy: 1609, 1296
+  size: 140, 190
+  orig: 140, 190
+  offset: 0, 0
+  index: -1
+poof
+  rotate: false
+  xy: 1751, 1362
+  size: 140, 180
+  orig: 140, 180
+  offset: 0, 0
+  index: 0
+poof
+  rotate: false
+  xy: 1893, 1362
+  size: 140, 180
+  orig: 140, 180
+  offset: 0, 0
+  index: 1
+poof
+  rotate: false
+  xy: 1097, 158
+  size: 140, 180
+  orig: 140, 180
+  offset: 0, 0
+  index: 2
+poof
+  rotate: false
+  xy: 1239, 158
+  size: 140, 180
+  orig: 140, 180
+  offset: 0, 0
+  index: 3
+laserfence
+  rotate: false
+  xy: 252, 1
+  size: 130, 137
+  orig: 130, 137
+  offset: 0, 0
+  index: 0
+laserfence
+  rotate: false
+  xy: 384, 1
+  size: 130, 137
+  orig: 130, 137
+  offset: 0, 0
+  index: 1
+poof
+  rotate: false
+  xy: 1463, 1105
+  size: 140, 180
+  orig: 140, 180
+  offset: 0, 0
+  index: 4
+tractorbody
+  rotate: false
+  xy: 864, 770
+  size: 135, 87
+  orig: 135, 87
+  offset: 0, 0
+  index: -1
+poof
+  rotate: false
+  xy: 523, 25
+  size: 140, 180
+  orig: 140, 180
+  offset: 0, 0
+  index: 5
+poof
+  rotate: false
+  xy: 665, 25
+  size: 140, 180
+  orig: 140, 180
+  offset: 0, 0
+  index: 6
+poof
+  rotate: false
+  xy: 807, 25
+  size: 140, 180
+  orig: 140, 180
+  offset: 0, 0
+  index: 7
+poof
+  rotate: false
+  xy: 949, 25
+  size: 140, 180
+  orig: 140, 180
+  offset: 0, 0
+  index: 8
+laserfence
+  rotate: false
+  xy: 1091, 19
+  size: 130, 137
+  orig: 130, 137
+  offset: 0, 0
+  index: 2
+laserfence
+  rotate: false
+  xy: 1223, 19
+  size: 130, 137
+  orig: 130, 137
+  offset: 0, 0
+  index: 3
+poof
+  rotate: false
+  xy: 1751, 1180
+  size: 140, 180
+  orig: 140, 180
+  offset: 0, 0
+  index: 9
+poof
+  rotate: false
+  xy: 1893, 1180
+  size: 140, 180
+  orig: 140, 180
+  offset: 0, 0
+  index: 10
+poof
+  rotate: false
+  xy: 1609, 1114
+  size: 140, 180
+  orig: 140, 180
+  offset: 0, 0
+  index: 11
+pow
+  rotate: false
+  xy: 1751, 998
+  size: 140, 180
+  orig: 140, 180
+  offset: 0, 0
+  index: 0
+pow
+  rotate: false
+  xy: 1893, 998
+  size: 140, 180
+  orig: 140, 180
+  offset: 0, 0
+  index: 1
+mariomtn
+  rotate: false
+  xy: 1275, 980
+  size: 123, 196
+  orig: 123, 196
+  offset: 0, 0
+  index: -1
+silosmall
+  rotate: false
+  xy: 1275, 845
+  size: 74, 133
+  orig: 74, 133
+  offset: 0, 0
+  index: -1
+pow
+  rotate: false
+  xy: 1400, 923
+  size: 140, 180
+  orig: 140, 180
+  offset: 0, 0
+  index: 2
+pow
+  rotate: false
+  xy: 1542, 923
+  size: 140, 180
+  orig: 140, 180
+  offset: 0, 0
+  index: 3
+pow
+  rotate: false
+  xy: 1371, 741
+  size: 140, 180
+  orig: 140, 180
+  offset: 0, 0
+  index: 4
+pow
+  rotate: false
+  xy: 1371, 559
+  size: 140, 180
+  orig: 140, 180
+  offset: 0, 0
+  index: 5
+pow
+  rotate: false
+  xy: 1513, 741
+  size: 140, 180
+  orig: 140, 180
+  offset: 0, 0
+  index: 6
+pow
+  rotate: false
+  xy: 1371, 377
+  size: 140, 180
+  orig: 140, 180
+  offset: 0, 0
+  index: 7
+pow
+  rotate: false
+  xy: 1513, 559
+  size: 140, 180
+  orig: 140, 180
+  offset: 0, 0
+  index: 8
+pow
+  rotate: false
+  xy: 1513, 377
+  size: 140, 180
+  orig: 140, 180
+  offset: 0, 0
+  index: 9
+pow
+  rotate: false
+  xy: 1381, 195
+  size: 140, 180
+  orig: 140, 180
+  offset: 0, 0
+  index: 10
+pow
+  rotate: false
+  xy: 1523, 195
+  size: 140, 180
+  orig: 140, 180
+  offset: 0, 0
+  index: 11
+fenceDie
+  rotate: false
+  xy: 1655, 775
+  size: 109, 146
+  orig: 109, 146
+  offset: 0, 0
+  index: -1
+fenceTrample
+  rotate: false
+  xy: 1655, 627
+  size: 109, 146
+  orig: 109, 146
+  offset: 0, 0
+  index: -1
+laserfence
+  rotate: false
+  xy: 1655, 488
+  size: 130, 137
+  orig: 130, 137
+  offset: 0, 0
+  index: 4
+hayBale
+  rotate: false
+  xy: 1655, 387
+  size: 96, 99
+  orig: 96, 99
+  offset: 0, 0
+  index: -1
+laserfence
+  rotate: false
+  xy: 1665, 248
+  size: 130, 137
+  orig: 130, 137
+  offset: 0, 0
+  index: 5
+laserfence
+  rotate: false
+  xy: 1766, 859
+  size: 130, 137
+  orig: 130, 137
+  offset: 0, 0
+  index: 6
+laserfence
+  rotate: false
+  xy: 1766, 720
+  size: 130, 137
+  orig: 130, 137
+  offset: 0, 0
+  index: 7
+giantwheat
+  rotate: false
+  xy: 1898, 882
+  size: 88, 114
+  orig: 88, 114
+  offset: 0, 0
+  index: -1
+farmer
+  rotate: false
+  xy: 1898, 764
+  size: 84, 116
+  orig: 84, 116
+  offset: 0, 0
+  index: -1
+haypile
+  rotate: false
+  xy: 1766, 653
+  size: 109, 65
+  orig: 109, 65
+  offset: 0, 0
+  index: -1
+charshadow
+  rotate: false
+  xy: 1381, 161
+  size: 131, 32
+  orig: 131, 32
+  offset: 0, 0
+  index: -1
+rearwheel
+  rotate: false
+  xy: 1001, 790
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: 0
+cornspark
+  rotate: false
+  xy: 1988, 918
+  size: 47, 78
+  orig: 47, 78
+  offset: 0, 0
+  index: 0
+rearwheel
+  rotate: false
+  xy: 1665, 179
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: 1
+rearwheel
+  rotate: false
+  xy: 1734, 179
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: 2
+wheat
+  rotate: false
+  xy: 1753, 401
+  size: 35, 85
+  orig: 35, 85
+  offset: 0, 0
+  index: 0
+cornspark
+  rotate: false
+  xy: 1684, 1034
+  size: 47, 78
+  orig: 47, 78
+  offset: 0, 0
+  index: 1
+cornspark
+  rotate: false
+  xy: 1684, 954
+  size: 47, 78
+  orig: 47, 78
+  offset: 0, 0
+  index: 2
+cornspark
+  rotate: false
+  xy: 1400, 1108
+  size: 47, 78
+  orig: 47, 78
+  offset: 0, 0
+  index: 3
+rearwheel
+  rotate: false
+  xy: 1898, 695
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: 3
+wheat
+  rotate: false
+  xy: 1355, 71
+  size: 35, 85
+  orig: 35, 85
+  offset: 0, 0
+  index: 1
+rearwheel
+  rotate: false
+  xy: 1392, 92
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: 4
+rearwheel
+  rotate: false
+  xy: 1461, 92
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: 5
+rearwheel
+  rotate: false
+  xy: 1787, 584
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: 6
+rearwheel
+  rotate: false
+  xy: 1787, 515
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: 7
+wheat
+  rotate: false
+  xy: 1856, 566
+  size: 35, 85
+  orig: 35, 85
+  offset: 0, 0
+  index: 2
+cornspark
+  rotate: false
+  xy: 1790, 435
+  size: 47, 78
+  orig: 47, 78
+  offset: 0, 0
+  index: 4
+corn
+  rotate: false
+  xy: 1351, 925
+  size: 40, 53
+  orig: 40, 53
+  offset: 0, 0
+  index: 0
+cornspark
+  rotate: false
+  xy: 1839, 435
+  size: 47, 78
+  orig: 47, 78
+  offset: 0, 0
+  index: 5
+cornspark
+  rotate: false
+  xy: 1530, 115
+  size: 47, 78
+  orig: 47, 78
+  offset: 0, 0
+  index: 6
+cornspark
+  rotate: false
+  xy: 1579, 115
+  size: 47, 78
+  orig: 47, 78
+  offset: 0, 0
+  index: 7
+wheat
+  rotate: false
+  xy: 1628, 108
+  size: 35, 85
+  orig: 35, 85
+  offset: 0, 0
+  index: 3
+wheat
+  rotate: false
+  xy: 1665, 92
+  size: 35, 85
+  orig: 35, 85
+  offset: 0, 0
+  index: 4
+wheat
+  rotate: false
+  xy: 1702, 92
+  size: 35, 85
+  orig: 35, 85
+  offset: 0, 0
+  index: 5
+wheat
+  rotate: false
+  xy: 1739, 92
+  size: 35, 85
+  orig: 35, 85
+  offset: 0, 0
+  index: 6
+wheat
+  rotate: false
+  xy: 1776, 92
+  size: 35, 85
+  orig: 35, 85
+  offset: 0, 0
+  index: 7
+corn
+  rotate: false
+  xy: 1355, 16
+  size: 40, 53
+  orig: 40, 53
+  offset: 0, 0
+  index: 1
+corn
+  rotate: false
+  xy: 1355, 16
+  size: 40, 53
+  orig: 40, 53
+  offset: 0, 0
+  index: 1
+cornwshadow
+  rotate: false
+  xy: 1967, 701
+  size: 34, 61
+  orig: 34, 61
+  offset: 0, 0
+  index: -1
+frontwheel
+  rotate: false
+  xy: 1877, 653
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 0
+corn
+  rotate: false
+  xy: 1919, 640
+  size: 40, 53
+  orig: 40, 53
+  offset: 0, 0
+  index: 2
+corn
+  rotate: false
+  xy: 1919, 640
+  size: 40, 53
+  orig: 40, 53
+  offset: 0, 0
+  index: 2
+frontwheel
+  rotate: false
+  xy: 1856, 524
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 1
+corn
+  rotate: false
+  xy: 1988, 863
+  size: 40, 53
+  orig: 40, 53
+  offset: 0, 0
+  index: 3
+corn
+  rotate: false
+  xy: 1988, 863
+  size: 40, 53
+  orig: 40, 53
+  offset: 0, 0
+  index: 3
+corn
+  rotate: false
+  xy: 1984, 808
+  size: 40, 53
+  orig: 40, 53
+  offset: 0, 0
+  index: 4
+frontwheel
+  rotate: false
+  xy: 1984, 766
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 2
+frontwheel
+  rotate: false
+  xy: 1790, 393
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 3
+frontwheel
+  rotate: false
+  xy: 1832, 393
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 4
+frontwheel
+  rotate: false
+  xy: 1797, 351
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 5
+frontwheel
+  rotate: false
+  xy: 1797, 309
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 6
+produceShadow
+  rotate: false
+  xy: 1070, 846
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
